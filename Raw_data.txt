@@ -1,0 +1,11 @@
+{
+	"name": ["Name :Vinoth Jagannathan",
+		"linkedin: https://in.linkedin.com/pub/vinoth-jagannathan/2b/396/b79"],
+	"objective":["Objective:", "Would like to work in field am interested in"],
+	"GitHub":["GitHub:", "https://github.com/vinothmsj"],
+	"current": ["Current Organization:", "Currently Working with Cognizant technologies in JAVA platform"],
+	"skills": ["Skills :","Java,Python,C,SQL,DB2,J2EE,Shell"],
+	"cert_cour": ["Certifications:","Done certifications in Networking,python and unix"],
+	"edu_back": ["Education:","Have a B.tech in ECE"]
+
+}
